@@ -1,0 +1,3 @@
+2409	|vogue		|zink Inc		|2018		|3		|RM2		|Magazine
+2491	|Dia		|zone Etr		|Anas		|12		|RM50		|Book
+2635	|Turtle		|Marvel Spc		|Kylie		|20		|RM20		|Movie
